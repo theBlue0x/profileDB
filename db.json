@@ -1,5 +1,13 @@
-{
-"account": "BLX-FYHQ-E8G4-TS8H-9C26A",
-"banner" : "https://i.imgur.com/uZOSjNr.png",
-"profile": "https://i.imgur.com/PVFHcXb.jpg"
-}
+[
+  {
+    "account": "BLX-FYHQ-E8G4-TS8H-9C26A",
+    "banner" : "https://i.imgur.com/uZOSjNr.png",
+    "profile": "https://i.imgur.com/PVFHcXb.jpg"
+  },
+  {
+    "account": "BLX-FYHQ-E8G4-TS8H-9C26B",
+    "banner" : "https://i.imgur.com/uZOSjNr.png",
+    "profile": "https://i.imgur.com/PVFHcXb.jpg"
+  }
+]
+  
