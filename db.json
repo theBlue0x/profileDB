@@ -2,12 +2,16 @@
   {
     "account": "BLX-FYHQ-E8G4-TS8H-9C26A",
     "banner" : "https://i.imgur.com/uZOSjNr.png",
-    "profile": "https://i.imgur.com/PVFHcXb.jpg"
+    "profile": "https://i.imgur.com/PVFHcXb.jpg",
+    "name": "John Doe",
+    "description": "My name is John Doe. I'm an Artist from Paris, France."
   },
   {
     "account": "BLX-FYHQ-E8G4-TS8H-9C26B",
     "banner" : "https://i.imgur.com/uZOSjNr.png",
-    "profile": "https://i.imgur.com/PVFHcXb.jpg"
+    "profile": "https://i.imgur.com/PVFHcXb.jpg",
+    "name": "Jane Doe",
+    "description": "My name is John Doe. I'm from Paris, France."
   }
 ]
   
